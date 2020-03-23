@@ -1,0 +1,27 @@
+{
+  "name": "pandemicmofo",
+  "version": "1.0.0",
+  "description": "backend of a pandemic project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierpoupier/PandemicMOFO.git"
+  },
+  "keywords": [
+    "AI",
+    "Nodejs",
+    "Angular",
+    "Express",
+    "MongoDB",
+    "MEAN"
+  ],
+  "author": "Olivier poupier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivierpoupier/PandemicMOFO/issues"
+  },
+  "homepage": "https://github.com/olivierpoupier/PandemicMOFO#readme"
+}
