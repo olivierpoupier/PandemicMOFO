@@ -36,7 +36,11 @@
     "imagemagick": "^0.1.3",
     "jsdom": "^16.2.1",
     "method-override": "^3.0.0",
+<<<<<<< HEAD
     "mongoose": "^5.9.5",
     "png-js": "^1.0.0"
+=======
+    "mongodb": "^3.5.5"
+>>>>>>> bfb66dce5ba465033cfe5459b88ef43b8bbbd027
   }
 }

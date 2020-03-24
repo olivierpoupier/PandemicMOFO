@@ -1,7 +1,6 @@
 var Example = require('./models/example');
 var imageProcessing = require('../imageProcessing.js')
 module.exports = function(app) {
-<<<<<<< HEAD
     app.get('/train', function(req, res) {
       var imagePath = req.query.path;
       var answer = req.query.result;
@@ -14,10 +13,6 @@ module.exports = function(app) {
         res.error("invalid arguments");
       }
 
-=======
-    app.get('/api/test', function(req, res) {
-        res.json(Example.getExamples());
->>>>>>> bfb66dce5ba465033cfe5459b88ef43b8bbbd027
     });
 
     // default
